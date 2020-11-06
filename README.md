@@ -25,3 +25,5 @@ output_test_sim = data_path+'Test/output_simulator_test/'
 ```
 
 ### It may take some time to load the whole dataset, be patient
+
+contact email: vallespuigramon@gmail.com
