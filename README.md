@@ -20,6 +20,11 @@ https://zenodo.org/record/4059189#.X6wpqGhKi71
 
 ### Properly set the input data directory
 ```python
+from google.colab import drive                             ## Comment if executing in local machine
+
+# This will prompt for authorization.                     
+drive.mount('/content/drive')                              ## Comment if executing in local machine
+
 data_path = '/content/drive/My Drive/Data/...'             ## Path to where data is stored
 results_path = '/content/drive/My Drive/Results/...'       ## Path where results will be stored
 input_train = data_path+'Train/input_node_files/'
