@@ -1,0 +1,1 @@
+This folder will store the MLP state after training, and the output of the Test scenarios.
