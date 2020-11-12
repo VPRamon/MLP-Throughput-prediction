@@ -1,0 +1,1 @@
+This folder must be filled with the .txt dataset containing the simulation information of each scenario.

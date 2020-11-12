@@ -1,0 +1,1 @@
+This folder must be filled with the .csv dataset containing the information of each scenario.
