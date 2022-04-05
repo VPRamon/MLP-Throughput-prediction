@@ -14,7 +14,7 @@ pip install torch===1.7.0 torchvision===0.8.1 torchaudio===0.7.0 -f https://down
 
 ## Dataset
 The dataset used during the project can be downloaded in the following link:
-https://zenodo.org/record/4059189#.X6wpqGhKi71
+https://zenodo.org/record/4106127#.Ykxw3PexXmg
 
 ## Usage
 
